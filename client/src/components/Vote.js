@@ -27,8 +27,7 @@ export default class Vote extends Component {
                                 : null
                         }
                     </button>
-                )
-                }
+                )}
             </div>
         )
     }
